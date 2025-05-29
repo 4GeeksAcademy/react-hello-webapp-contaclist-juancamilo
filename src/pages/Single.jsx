@@ -29,7 +29,7 @@ export const Single = props => {
   );
 };
 
-// Use PropTypes to validate the props passed to this component, ensuring reliable behavior.
+
 Single.propTypes = {
   // Although 'match' prop is defined here, it is not used in the component.
   // Consider removing or using it as needed.
